@@ -1,5 +1,3 @@
-# Encryption-and-decryption
-
 Overview
 This is a Python-based tool that allows users to encrypt and decrypt .jpg image files using a custom key. It utilizes a simple XOR-based encryption technique to scramble the image data and provides a Tkinter-based GUI for ease of use.
 
@@ -11,9 +9,8 @@ Simple GUI: Provides a graphical interface for selecting files, inputting the ke
 Installation
 Prerequisites
 Python 3.x
-Required Python libraries:
-tkinter
-
+Required Python library:
+tkinter (This comes pre-installed with Python on most systems)
 Usage
 Graphical Interface
 Launch the tool: Run the Python script to open the GUI window.
